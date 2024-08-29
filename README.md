@@ -2,13 +2,6 @@
 
 Welcome to my personal portfolio website! This is a showcase of my work, skills, and projects as a developer with a focus on AI/ML and web development.
 
-## Demo
-
-**Link to Live Demo:**  
-[Live Demo](https://github.com/normienishant/myportfolio)  
-
-Visit the live version of my portfolio to explore my projects and learn more about me.
-
 ## Features
 
 - Interactive and responsive design.
