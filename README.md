@@ -67,5 +67,7 @@ Here are some screenshots of my portfolio
 ## Contact
 
 **Nishant Kumar**
+
 [Connect with me](https://www.linkedin.com/in/designsbynishant/)
+
 [View other projects](https://github.com/normienishant)
