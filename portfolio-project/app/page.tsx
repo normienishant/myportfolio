@@ -426,7 +426,7 @@ export default function NishantPortfolio() {
       <footer className="border-t py-12">
         <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
           <p className="text-center text-sm text-muted-foreground md:text-left">
-            Built by Nishant Kumar. View source code on <a href="https://github.com/normienishant" target="_blank" rel="noopener noreferrer" className="underline">GitHub</a>
+            Built by Nishant Kumar. View source code on <a href="https://github.com/normienishant/myportfolio" target="_blank" rel="noopener noreferrer" className="underline">GitHub</a>
           </p>
           <div className="flex items-center space-x-1">
             <a href="https://github.com/normienishant" target="_blank" rel="noopener noreferrer">

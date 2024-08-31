@@ -1,12 +1,16 @@
 {
   "name": "portfolio-project",
   "version": "0.1.0",
+  "homepage": "https://normienishant.github.io/myportfolio",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out",
+    "export": "next export"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.1",
